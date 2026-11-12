@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrongNghia\\NAM HOC 26-27\\LT WEB ASPX\\ASP.NET\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7225E5-010A-4A6D-A3EE-9A11F158DD41}|ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING.csproj|d:\\trongnghia\\nam hoc 26-27\\lt web aspx\\asp.net\\chude4_aspx_search-filter-paging\\chude4_aspx_search-filter-paging\\chude4_aspx_search-filter-paging\\frm_search_filter_paging.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E7225E5-010A-4A6D-A3EE-9A11F158DD41}|ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING.csproj|solutionrelative:chude4_aspx_search-filter-paging\\frm_search_filter_paging.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Search_Filter_Paging.aspx",
+              "DocumentMoniker": "D:\\TrongNghia\\NAM HOC 26-27\\LT WEB ASPX\\ASP.NET\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\Frm_Search_Filter_Paging.aspx",
+              "RelativeDocumentMoniker": "ChuDe4_ASPX_SEARCH-FILTER-PAGING\\Frm_Search_Filter_Paging.aspx",
+              "ToolTip": "D:\\TrongNghia\\NAM HOC 26-27\\LT WEB ASPX\\ASP.NET\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\ChuDe4_ASPX_SEARCH-FILTER-PAGING\\Frm_Search_Filter_Paging.aspx",
+              "RelativeToolTip": "ChuDe4_ASPX_SEARCH-FILTER-PAGING\\Frm_Search_Filter_Paging.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-12T08:38:30.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
